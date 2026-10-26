@@ -1,0 +1,8 @@
+
+# macOS
+.DS_Store
+
+# KiCad: lokalne ustawienia, blokady i automatyczne kopie
+*.kicad_prl
+*.lck
+*-backups/
