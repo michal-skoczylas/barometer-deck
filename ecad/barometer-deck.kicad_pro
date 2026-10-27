@@ -460,7 +460,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "template.kicad_pro",
+    "filename": "barometer-deck.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -703,6 +703,10 @@
     [
       "2bfc2941-3088-40c7-bba6-7c71dd8f3a10",
       "Root"
+    ],
+    [
+      "8db1cc8f-a1bd-4436-b795-2f4d54b60fea",
+      "Power delivery"
     ]
   ],
   "text_variables": {}
