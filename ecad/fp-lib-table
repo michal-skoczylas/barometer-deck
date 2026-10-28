@@ -3,4 +3,5 @@
   (lib (name "BMP390")(type "KiCad")(uri "${KIPRJMOD}/libs/BMP390.pretty")(options "")(descr ""))
   (lib (name "NINA-W106_UBL")(type "KiCad")(uri "${KIPRJMOD}/libs/NINA-W106_UBL.pretty")(options "")(descr ""))
   (lib (name "AP2112K-3_3TRG1")(type "KiCad")(uri "${KIPRJMOD}/libs/AP2112K-3_3TRG1.pretty")(options "")(descr ""))
+  (lib (name "MIC5353-3_3YMT-TR")(type "KiCad")(uri "${KIPRJMOD}/libs/MIC5353-3_3YMT-TR.pretty")(options "")(descr ""))
 )

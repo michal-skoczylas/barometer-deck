@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC5353-3.3YMT-TR
+D 6Vin, Single 500mA ULDO
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5353.pdf
+$ENDCMP
+#
+#End Doc Library
