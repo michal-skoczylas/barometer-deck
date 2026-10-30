@@ -41,7 +41,7 @@
 		(tenting front back)
 		(grid_origin 139.001 97.00092)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_00000000_020020af)
+			(layerselection 0x00000000_00000000_55555555_575575ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions yes)

@@ -5,10 +5,10 @@
 	(uuid "2bfc2941-3088-40c7-bba6-7c71dd8f3a10")
 	(paper "A4")
 	(title_block
-		(title "Crazyflie 2.0 expansion boad template")
-		(date "20 okt 2014")
+		(title "Barometer deck")
+		(date "2026-10-30")
 		(rev "A")
-		(company "Bitcraze AB")
+		(company "michal es company")
 		(comment 1 "Licensed under CC-BY 4.0")
 	)
 	(lib_symbols
@@ -4355,8 +4355,8 @@
 		)
 	)
 	(rectangle
-		(start 11.684 12.954)
-		(end 73.66 63.5)
+		(start 12.954 12.954)
+		(end 74.93 63.5)
 		(stroke
 			(width 0)
 			(type default)
